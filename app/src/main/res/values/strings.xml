@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BasicComponents</string>
+    <string name="may_you_should_say_your_name">May you should say your name</string>
+    <string name="may_you_should_write_your_e_mail">May you should write your e-mail</string>
+    <string name="button">Button</string>
+    <string name="textview">Yeahh!!!!</string>
+    <string name="green">Green</string>
+    <string name="white">White</string>
+    <string name="red">Red</string>
+</resources>
